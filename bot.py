@@ -35,7 +35,7 @@ async def start(event):
     link_preview=False,
     buttons=(
        [
-        Button.url(' support', 'hhttps://t.me/ANKITSERVER'),
+        Button.url(' support', 'https://t.me/ANKITSERVER'),
         Button.url('creater', 'https://t.me/vijaysahu_1')
     ],
     )
